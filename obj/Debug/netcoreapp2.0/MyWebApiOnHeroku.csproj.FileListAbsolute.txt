@@ -1,0 +1,11 @@
+/Users/alex/Documents/C#/dotnetcoreheroku/MyWebApiOnHeroku/bin/Debug/netcoreapp2.0/MyWebApiOnHeroku.deps.json
+/Users/alex/Documents/C#/dotnetcoreheroku/MyWebApiOnHeroku/bin/Debug/netcoreapp2.0/MyWebApiOnHeroku.runtimeconfig.json
+/Users/alex/Documents/C#/dotnetcoreheroku/MyWebApiOnHeroku/bin/Debug/netcoreapp2.0/MyWebApiOnHeroku.runtimeconfig.dev.json
+/Users/alex/Documents/C#/dotnetcoreheroku/MyWebApiOnHeroku/bin/Debug/netcoreapp2.0/MyWebApiOnHeroku.dll
+/Users/alex/Documents/C#/dotnetcoreheroku/MyWebApiOnHeroku/bin/Debug/netcoreapp2.0/MyWebApiOnHeroku.pdb
+/Users/alex/Documents/C#/dotnetcoreheroku/MyWebApiOnHeroku/obj/Debug/netcoreapp2.0/MyWebApiOnHeroku.csprojResolveAssemblyReference.cache
+/Users/alex/Documents/C#/dotnetcoreheroku/MyWebApiOnHeroku/obj/Debug/netcoreapp2.0/MyWebApiOnHeroku.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/C#/dotnetcoreheroku/MyWebApiOnHeroku/obj/Debug/netcoreapp2.0/MyWebApiOnHeroku.AssemblyInfoInputs.cache
+/Users/alex/Documents/C#/dotnetcoreheroku/MyWebApiOnHeroku/obj/Debug/netcoreapp2.0/MyWebApiOnHeroku.AssemblyInfo.cs
+/Users/alex/Documents/C#/dotnetcoreheroku/MyWebApiOnHeroku/obj/Debug/netcoreapp2.0/MyWebApiOnHeroku.dll
+/Users/alex/Documents/C#/dotnetcoreheroku/MyWebApiOnHeroku/obj/Debug/netcoreapp2.0/MyWebApiOnHeroku.pdb
